@@ -7,12 +7,15 @@ namespace CRUDFilmDbProject.Models
     public class FilmForm
 
     {
-        [Key]
-        public int FilmID { get; set; }
 
+        [Required]
         public string FilmTitle { get; set; }
 
+        [Required]
         public string FilmCertificate { get; set; }
+
+        [Key]
+        public int FilmID { get; set; }
 
         public string FilmDescription { get; set; }
 
