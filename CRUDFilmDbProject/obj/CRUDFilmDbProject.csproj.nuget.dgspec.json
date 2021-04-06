@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LabStudent-55-504266\\Source\\Repos\\StarterCrudFilmDbProject\\CRUDFilmDbProject\\CRUDFilmDbProject.csproj": {}
+    "C:\\Users\\Student\\Source\\Repos\\StarterCrudFilmDbProject\\CRUDFilmDbProject\\CRUDFilmDbProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LabStudent-55-504266\\Source\\Repos\\StarterCrudFilmDbProject\\CRUDFilmDbProject\\CRUDFilmDbProject.csproj": {
+    "C:\\Users\\Student\\Source\\Repos\\StarterCrudFilmDbProject\\CRUDFilmDbProject\\CRUDFilmDbProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LabStudent-55-504266\\Source\\Repos\\StarterCrudFilmDbProject\\CRUDFilmDbProject\\CRUDFilmDbProject.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Source\\Repos\\StarterCrudFilmDbProject\\CRUDFilmDbProject\\CRUDFilmDbProject.csproj",
         "projectName": "CRUDFilmDbProject",
-        "projectPath": "C:\\Users\\LabStudent-55-504266\\Source\\Repos\\StarterCrudFilmDbProject\\CRUDFilmDbProject\\CRUDFilmDbProject.csproj",
-        "packagesPath": "C:\\Users\\LabStudent-55-504266\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LabStudent-55-504266\\Source\\Repos\\StarterCrudFilmDbProject\\CRUDFilmDbProject\\obj\\",
+        "projectPath": "C:\\Users\\Student\\Source\\Repos\\StarterCrudFilmDbProject\\CRUDFilmDbProject\\CRUDFilmDbProject.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student\\Source\\Repos\\StarterCrudFilmDbProject\\CRUDFilmDbProject\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\LabStudent-55-504266\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -30,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -75,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
